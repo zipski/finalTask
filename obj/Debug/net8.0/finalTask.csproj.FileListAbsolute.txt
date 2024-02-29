@@ -1,0 +1,15 @@
+/Users/zipski/tmp/c#/finalTask/obj/Debug/net8.0/finalTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zipski/tmp/c#/finalTask/obj/Debug/net8.0/finalTask.AssemblyInfoInputs.cache
+/Users/zipski/tmp/c#/finalTask/obj/Debug/net8.0/finalTask.AssemblyInfo.cs
+/Users/zipski/tmp/c#/finalTask/obj/Debug/net8.0/finalTask.csproj.CoreCompileInputs.cache
+/Users/zipski/tmp/c#/finalTask/obj/Debug/net8.0/finalTask.sourcelink.json
+/Users/zipski/tmp/c#/finalTask/bin/Debug/net8.0/finalTask
+/Users/zipski/tmp/c#/finalTask/bin/Debug/net8.0/finalTask.deps.json
+/Users/zipski/tmp/c#/finalTask/bin/Debug/net8.0/finalTask.runtimeconfig.json
+/Users/zipski/tmp/c#/finalTask/bin/Debug/net8.0/finalTask.dll
+/Users/zipski/tmp/c#/finalTask/bin/Debug/net8.0/finalTask.pdb
+/Users/zipski/tmp/c#/finalTask/obj/Debug/net8.0/finalTask.dll
+/Users/zipski/tmp/c#/finalTask/obj/Debug/net8.0/refint/finalTask.dll
+/Users/zipski/tmp/c#/finalTask/obj/Debug/net8.0/finalTask.pdb
+/Users/zipski/tmp/c#/finalTask/obj/Debug/net8.0/finalTask.genruntimeconfig.cache
+/Users/zipski/tmp/c#/finalTask/obj/Debug/net8.0/ref/finalTask.dll
