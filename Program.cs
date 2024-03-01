@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         // задаем массив строк с названиями брендов
-        string[] carBrands = { "BMW", "Audi", "VW", "Ferrari",};
+        string[] carBrands = { "BMW", "Audi", "VW", "Ferrari", "Subraru", "Buick", "Tesla", "Volvo", "Mazda", "CAT", "Belaz", "GMC", "GM", "BYD", "MINI"};
 
         // создаем новый массив для хранения результатов
         string[] result = new string[carBrands.Length];
@@ -21,7 +21,7 @@ class Program
         }
 
         // Вывод берндов автомобилей
-        Console.WriteLine("Бренды автомобилей с названиями до 3 символов:");
+        Console.WriteLine("Бренды авто с названиями до трех символов");
         for (int i = 0; i < position; i++)
         {
             Console.WriteLine(result[i]);
